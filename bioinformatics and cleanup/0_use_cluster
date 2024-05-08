@@ -8,7 +8,7 @@ cd SBCSS
 nano dada2_SBCSS.R
 
 #activate conda environment with R
-conda activate R4.1
+conda activate R4.2.0
 
 #queue a job in slurm using sbatch
 sbatch \
